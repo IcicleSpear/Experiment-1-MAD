@@ -26,15 +26,93 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-```
 /*
 Program to print the text “Hello World”.
-Developed by:
-Registeration Number :
+Developed by: Abhishek.A.G
+Registeration Number : 21222104004
 */
-```
-
+'''MainActivity.java:
+package com.example.helloworld;
+import androidx.appcompat.app.AppCompatActivity;
+import android.os.Bundle;
+import android.util.Log;
+import android.widget.Toast;
+public class MainActivity extends AppCompatActivity {
+private static final String TAG = "HelloWorldActivity";
+@Override
+protected void onCreate(Bundle savedInstanceState) {
+super.onCreate(savedInstanceState);
+setContentView(R.layout.activity_main);
+Log.d(TAG, "onCreate: ");
+Toast.makeText(this, "onCreate", Toast.LENGTH_SHORT).show();
+}
+@Override
+protected void onStart() {
+super.onStart();
+Log.d(TAG, "onStart: ");
+Toast.makeText(this, "onStart", Toast.LENGTH_SHORT).show();
+}
+@Override
+protected void onResume() {
+super.onResume();
+Log.d(TAG, "onResume: ");
+Toast.makeText(this, "onResume", Toast.LENGTH_SHORT).show();
+}
+@Override
+protected void onPause() {
+super.onPause();
+Log.d(TAG, "onPause: ");
+Toast.makeText(this, "onPause", Toast.LENGTH_SHORT).show();
+}
+@Override
+protected void onStop() {
+super.onStop();
+Log.d(TAG, "onStop: ");
+Toast.makeText(this, "onStop", Toast.LENGTH_SHORT).show();
+}
+@Override
+protected void onDestroy() {
+super.onDestroy();
+Log.d(TAG, "onDestroy: ");
+Toast.makeText(this, "onDestroy", Toast.LENGTH_SHORT).show();
+}
+@Override
+protected void onRestart() {
+super.onRestart();
+Log.d(TAG, "onRestart: ");
+Toast.makeText(this, "onRestart", Toast.LENGTH_SHORT).show();
+}
+}
+Activity_main.xml:
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".MainActivity">
+<TextView
+android:layout_width="238dp"
+android:layout_height="105dp"
+android:text="Hello World!"
+android:textSize="100px"
+android:textStyle="italic"
+app:layout_constraintBottom_toBottomOf="parent"
+app:layout_constraintEnd_toEndOf="parent"
+app:layout_constraintHorizontal_bias="0.591"
+app:layout_constraintStart_toStartOf="parent"
+app:layout_constraintTop_toTopOf="parent"
+app:layout_constraintVertical_bias="0.499" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+'''
 ## OUTPUT
+
+![image](https://github.com/IcicleSpear/Experiment-1-MAD/assets/123985960/f77ee9ed-d3f9-4fdb-a58c-12747e70290a)
+
+https://github.com/IcicleSpear/Experiment-1-MAD/assets/123985960/a57d442e-6e79-412a-ba07-bd2f668f3f23
+https://github.com/IcicleSpear/Experiment-1-MAD/assets/123985960/311f8209-5629-4635-a4fe-3ecbe6aef988
+
 
 
 
