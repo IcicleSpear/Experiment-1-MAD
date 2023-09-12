@@ -31,7 +31,7 @@ Program to print the text “Hello World”.
 Developed by: Abhishek.A.G
 Registeration Number : 21222104004
 */
-'''MainActivity.java:
+MainActivity.java:
 package com.example.helloworld;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
@@ -104,7 +104,7 @@ app:layout_constraintHorizontal_bias="0.591"
 app:layout_constraintStart_toStartOf="parent"
 app:layout_constraintTop_toTopOf="parent"
 app:layout_constraintVertical_bias="0.499" />
-</androidx.constraintlayout.widget.ConstraintLayout>```
+</androidx.constraintlayout.widget.ConstraintLayout>~~~
 
 ## OUTPUT
 ![image](https://github.com/IcicleSpear/Experiment-1-MAD/assets/123985960/f77ee9ed-d3f9-4fdb-a58c-12747e70290a)
