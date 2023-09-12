@@ -26,7 +26,8 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-~~~/*
+```
+/*
 Program to print the text “Hello World”.
 Developed by: Abhishek.A.G
 Registeration Number : 21222104004
@@ -104,13 +105,14 @@ app:layout_constraintHorizontal_bias="0.591"
 app:layout_constraintStart_toStartOf="parent"
 app:layout_constraintTop_toTopOf="parent"
 app:layout_constraintVertical_bias="0.499" />
-</androidx.constraintlayout.widget.ConstraintLayout>~~~
-
+</androidx.constraintlayout.widget.ConstraintLayout>
+```
 ## OUTPUT
-![image](https://github.com/IcicleSpear/Experiment-1-MAD/assets/123985960/f77ee9ed-d3f9-4fdb-a58c-12747e70290a)
+![image](https://github.com/IcicleSpear/Experiment-1-MAD/assets/123985960/1196a666-a474-4c1f-a5b4-b7450513d966)
+![image](https://github.com/IcicleSpear/Experiment-1-MAD/assets/123985960/14f2012a-3e4d-4425-8c70-b1b10c1df323)
+![image](https://github.com/IcicleSpear/Experiment-1-MAD/assets/123985960/1ae729ba-f36a-46aa-925a-a053f281a949)
 
-https://github.com/IcicleSpear/Experiment-1-MAD/assets/123985960/a57d442e-6e79-412a-ba07-bd2f668f3f23
-https://github.com/IcicleSpear/Experiment-1-MAD/assets/123985960/311f8209-5629-4635-a4fe-3ecbe6aef988
+
 
 
 
