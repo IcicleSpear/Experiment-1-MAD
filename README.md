@@ -102,14 +102,9 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-## Output:
-![WhatsApp Image 2023-08-28 at 23 32 39](https://github.com/HibaRajarajeswari/Life-Cycle-Model/assets/129970809/ee9a05c0-6283-4747-ada8-3ddf8390edee)
-![WhatsApp Image 2023-08-28 at 23 28 55](https://github.com/HibaRajarajeswari/Life-Cycle-Model/assets/129970809/80d5bc93-9033-422a-ba68-24e61cffd654)
-![WhatsApp Image 2023-08-28 at 23 08 33](https://github.com/HibaRajarajeswari/Life-Cycle-Model/assets/129970809/a13c5e0a-39e0-4f7f-8f42-79e2c9bfc08f)
-![WhatsApp Image 2023-08-28 at 11 42 02](https://github.com/HibaRajarajeswari/Life-Cycle-Model/assets/129970809/b35ab861-90fa-4b95-9fd1-ead260697a24)
-![WhatsApp Image 2023-08-28 at 23 07 04](https://github.com/HibaRajarajeswari/Life-Cycle-Model/assets/129970809/81b1a6fe-2bba-45e0-be7e-e29467d181bc)
-![WhatsApp Image 2023-08-28 at 23 08 00](https://github.com/HibaRajarajeswari/Life-Cycle-Model/assets/129970809/979fd650-ce2c-4105-8ea4-5eccf28e9b32)
-![WhatsApp Image 2023-08-28 at 23 39 44](https://github.com/HibaRajarajeswari/Life-Cycle-Model/assets/129970809/a685e98c-7912-4e15-a954-6b1f48faf3f7)
+## Output:![image](https://github.com/JaganSivakumaran/Experiment-1/assets/134905062/1c47447a-9a70-4e51-9099-8c3e959515a5)
+![image](https://github.com/JaganSivakumaran/Experiment-1/assets/134905062/1c47447a-9a70-4e51-9099-8c3e959515a5)
+![image](https://github.com/JaganSivakumaran/Experiment-1/assets/134905062/6abd7bc5-7965-4920-afb7-bdd9a8619542)
 
 
 ## RESULT:
