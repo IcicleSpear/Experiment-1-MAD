@@ -102,7 +102,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-## Output:![image](https://github.com/JaganSivakumaran/Experiment-1/assets/134905062/1c47447a-9a70-4e51-9099-8c3e959515a5)
+## Output:
 ![image](https://github.com/JaganSivakumaran/Experiment-1/assets/134905062/1c47447a-9a70-4e51-9099-8c3e959515a5)
 ![image](https://github.com/JaganSivakumaran/Experiment-1/assets/134905062/6abd7bc5-7965-4920-afb7-bdd9a8619542)
 
